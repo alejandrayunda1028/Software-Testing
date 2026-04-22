@@ -1,0 +1,1 @@
+Aprendo Software Testing, enfocado en validar la calidad del software con pruebas funcionales y no funcionales. Uso técnicas como pruebas exploratorias y pruebas funcionales, diseño de pruebas y detección de errores, aplicando metodologías ágiles para mejorar la confiabilidad del software.
